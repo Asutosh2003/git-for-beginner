@@ -26,4 +26,8 @@ This command above allows you to find the .gitconfig file that is in your user d
 
 Now, Git is set up and configured. This means you're ready for some work! :-)
 
+
+
+Asutosh
+
 In the next section, you will learn how to work with local repositories. But before that, let's test your knowledge with some learning questions.
