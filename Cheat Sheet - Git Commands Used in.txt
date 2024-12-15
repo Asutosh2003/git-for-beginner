@@ -191,8 +191,120 @@ Now you know how to work with a local repository.
 
 In the next section, you will learn how to branch and merge your code. This can be helpful when you want to work on different features in parallel. But before that, let's test your knowledge with some learning questions.
 
+Day 3:-
+Git for Beginners
+Course image
+28. Cheat Sheet - Git Commands Used in This Section
 
 
-Asutosh
-Last name:Samantaray
-middlename = "mantu"
+Play
+23. Introduction
+1min
+Play
+24. Create a Branch
+4min
+Play
+25. Merge a Branch
+3min
+Play
+26. Handle Merge Conflicts
+10min
+Play
+27. Summary
+1min
+Start
+28. Cheat Sheet - Git Commands Used in This Section
+1min
+Start
+Quiz 4: Learning Questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teach the world online
+Create an online video course, reach students across the globe, and earn money
+Top companies choose Udemy Business to build in-demand career skills.
+NasdaqVolkswagenBoxNetAppEventbrite
+Explore top skills and certifications
+About
+About us
+Careers
+Contact us
+Blog
+Investors
+Discovery Udemy
+Get the app
+Teach on Udemy
+Plans and Pricing
+Affiliate
+Help and Support
+Udemy for Business
+Udemy Business
+Legal & Accessibility
+Accessibility statement
+Privacy policy
+Sitemap
+Terms
+© 2024 Udemy, Inc.
+28. Cheat Sheet - Git Commands Used in This Section
+Cheat Sheet - Git Commands Used in This Section
+In this section, you learned how to branch and merge your code.
+
+You used the following Git commands
+List the local branches:
+
+git branch
+
+Create a new branch with the name "feature/AddTwitterHandle":
+
+git branch feature/AddTwitterHandle
+
+Checkout the new branch:
+
+git checkout feature/AddTwitterHandle
+
+Checkout the main branch:
+
+git checkout main
+
+Merge changes from the feature branch into the main branch. This command assumes that you have the main branch checked out:
+
+git merge feature/AddTwitterHandle
+
+Show a graph when showing the history:
+
+git log --pretty=oneline --graph
+
+Now you know how to branch and merge your code, which can be helpful when you want to work on different features in parallel.
+
+In the next section, you will learn how to push your code to a remote repository on GitHub. But before that, let's test your knowledge with some learning questions.
+
