@@ -246,6 +246,128 @@ Now you know how to branch and merge your code, which can be helpful when you wa
 
 In the next section, you will learn how to push your code to a remote repository on GitHub. But before that, let's test your knowledge with some learning questions.
 
+Git for Beginners
+Course image
+36. Cheat Sheet - Git Commands Used in This Section
+
+
+Play
+29. Introduction
+1min
+Play
+30. Create a Repository on GitHub
+4min
+Play
+31. Push Your Code to the Remote Repository
+8min
+Play
+32. Clone the Repository
+5min
+Play
+33. Pull Changes from the Remote Repository
+3min
+Play
+34. Understand the Pull Command
+6min
+Play
+35. Summary
+1min
+Start
+36. Cheat Sheet - Git Commands Used in This Section
+1min
+Start
+Quiz 5: Learning Questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teach the world online
+Create an online video course, reach students across the globe, and earn money
+Top companies choose Udemy Business to build in-demand career skills.
+NasdaqVolkswagenBoxNetAppEventbrite
+Explore top skills and certifications
+About
+About us
+Careers
+Contact us
+Blog
+Investors
+Discovery Udemy
+Get the app
+Teach on Udemy
+Plans and Pricing
+Affiliate
+Help and Support
+Udemy for Business
+Udemy Business
+Legal & Accessibility
+Accessibility statement
+Privacy policy
+Sitemap
+Terms
+© 2024 Udemy, Inc.
+36. Cheat Sheet - Git Commands Used in This Section
+Cheat Sheet - Git Commands Used in This Section
+In this section, you learned how to push your code to a remote repository on GitHub.
+
+You used the following Git commands
+Add the remote repository https://repositoryURL under the name origin to your local repository:
+
+git remote add origin https://repositoryURL
+
+Push the first time to the main branch of the remote repository and set it as upstream:
+
+git push -u origin main
+
+Push the next commits to the remote repository:
+
+git push
+
+Clone a remote repository with the URL https://repositoryURL into a local repository on your machine:
+
+git clone https://repositoryURL
+
+Clone a remote repository into the current directory (Note the separate dot at the end that indicates the current directory):
+
+git clone https://repositoryURL .
+
+Fetch changes from the remote repository without merging them into your local branch:
+
+git fetch
+
+Now you know how to push your code to a remote repository on GitHub, how to clone a remote repository, and how to pull changes from the remote repository into your local repository.
+
+In the next section, you will learn how to create so-called pull requests. But before that, let's test your knowledge with some learning questions.
+
 
 Asutosh Samantaray
 MCA
