@@ -27,7 +27,166 @@ This command above allows you to find the .gitconfig file that is in your user d
 Now, Git is set up and configured. This means you're ready for some work! :-)
 
 
-
-Asutosh
-
 In the next section, you will learn how to work with local repositories. But before that, let's test your knowledge with some learning questions.
+
+
+Day 2:-
+
+
+
+
+Git for Beginners
+Course image
+22. Cheat Sheet - Git Commands Used in This Section
+
+
+Play
+13. Introduction
+1min
+Play
+14. Create a Local Repository
+4min
+Play
+15. Understand the Three Main Areas
+2min
+Play
+16. Create Your First Commit
+4min
+Play
+17. Create Another Commit
+8min
+Play
+18. Know What Snapshots Are
+4min
+Play
+19. Look at the History of Your Code
+3min
+Play
+20. Ignore Files in the Working Directory
+7min
+Play
+21. Summary
+1min
+Start
+22. Cheat Sheet - Git Commands Used in This Section
+1min
+Start
+Quiz 3: Learning Questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teach the world online
+Create an online video course, reach students across the globe, and earn money
+Top companies choose Udemy Business to build in-demand career skills.
+NasdaqVolkswagenBoxNetAppEventbrite
+Explore top skills and certifications
+About
+About us
+Careers
+Contact us
+Blog
+Investors
+Discovery Udemy
+Get the app
+Teach on Udemy
+Plans and Pricing
+Affiliate
+Help and Support
+Udemy for Business
+Udemy Business
+Legal & Accessibility
+Accessibility statement
+Privacy policy
+Sitemap
+Terms
+© 2024 Udemy, Inc.
+22. Cheat Sheet - Git Commands Used in This Section
+Cheat Sheet - Git Commands Used in This Section
+In this section, you created and worked with a local repository.
+
+You used the following Git commands
+Initialize an empty Git repository:
+
+git init
+
+Show the status of your repository:
+
+git status
+
+Stage a specific file:
+
+git add readme.txt
+
+Stage all changed files:
+
+git add .
+
+Commit the staged files:
+
+git commit -m "Create readme file"
+
+Define notepad as an editor. It will be used when you run the git commit command without -m parameter:
+
+git config --global core.editor notepad
+
+Show the changes of a specific file:
+
+git diff readme.txt
+
+Show the changes in your working directory:
+
+git diff
+
+Show the changes in your staging area:
+
+git diff --staged
+
+Show the history/log:
+
+git log
+
+Show the history/log with one commit per line:
+
+git log --pretty=oneline
+
+Checkout a specific commit by its snapshot hash:
+
+git checkout b346471
+
+Navigate back to your main branch:
+
+git checkout main
+
+Now you know how to work with a local repository.
+
+In the next section, you will learn how to branch and merge your code. This can be helpful when you want to work on different features in parallel. But before that, let's test your knowledge with some learning questions.
